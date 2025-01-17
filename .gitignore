@@ -1,0 +1,7 @@
+music/
+yun.cookie.txt
+.venv/
+.env
+logs/
+__pycache__/
+.data/

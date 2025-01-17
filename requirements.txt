@@ -1,0 +1,6 @@
+pymongo
+pycryptodome 
+requests
+python-dotenv
+minio
+loguru
